@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loursa.github.io/chatgpt-mirrors/sitemap.xml
