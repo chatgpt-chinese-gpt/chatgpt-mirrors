@@ -1,6 +1,6 @@
 # ChatGPT 中文版镜像网站合集（支持GPT-4，GPT-4o，GPT-o1,无需翻墙）【2025年持续更新】 
 
-> **更新时间： 2025/04/05**                         
+> **更新时间： 2025/04/06**                         
 
 **2025年最新 ChatGPT 中文版镜像网站。无需翻墙、无需注册账号，畅享使用 ChatGPT**    
 我们为大家整理了国内可用的 **ChatGPT中文镜像网站**，帮助用户解决访问难、速度慢等问题，同时提供详细的使用教程和站点功能对比，让您轻松选择最适合的站点。 
@@ -37,7 +37,7 @@
 
 | 镜像站地址           | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------|-----------|---------------|-------|---------|
-| [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 国内QQ、网易邮箱注册 | 高     | 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画 |
+| [snakegpt.chat](https://snakegpt.chat) | GPT-4, GPT-3.5 | 有 | 国内QQ、网易邮箱注册 | 高     | 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画 |
 | [gptcat.cc](https://gptcat.cc)      | GPT-4，GPT-o1,GPT-canvas        | 有 | 国内QQ、网易邮箱注册     | 高     | 运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型。 |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)  | GPT-4, GPT-3.5 | 有 | 国内QQ、网易邮箱注册 | 高     | 运营时长两年，支持GPT4.0、GPT4o。 |
 | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 国内QQ、网易邮箱注册     | 中     | 运营时长一年半，bug比较多，大家可以看情况使用。 |
@@ -74,7 +74,7 @@
 
 ## 详细使用教程（如何快速上手）
 
-1. **选择镜像站**：访问上表推荐的站点，例如：[snakegpt.work](https://snakegpt.work)。
+1. **选择镜像站**：访问上表推荐的站点，例如：[snakegpt.chat](https://snakegpt.chat)。
 2. **注册或直接使用**：
    - 如果需要注册，填写邮箱和密码即可创建账户。
    - 如果无需注册，可直接进入聊天界面。
