@@ -38,7 +38,7 @@
 | 镜像站地址           | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------|-----------|---------------|-------|---------|
 | [snakegpt.com.cn](https://snakegpt.com.cn) | GPT-4, GPT-3.5 | 有 | 国内QQ、网易邮箱注册 | 高     | 运营时长一年半，支持GPT4、GPT4o，Midjourney绘画 |
-| [chat2.gptcat.cc](https://chat2.gptcat.cc)      | GPT-4，GPT-o1,GPT-canvas        | 有 | 国内QQ、网易邮箱注册     | 高     | 运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型。 |
+| [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)      | GPT-4，GPT-o1,GPT-canvas        | 有 | 国内QQ、网易邮箱注册     | 高     | 运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT与Claude，支持使用canvas模型。 |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)  | GPT-4, GPT-3.5 | 有 | 国内QQ、网易邮箱注册 | 高     | 运营时长两年，支持GPT4.0、GPT4o。 |
 | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 国内QQ、网易邮箱注册     | 中     | 运营时长一年半，bug比较多，大家可以看情况使用。 |
 
@@ -126,4 +126,4 @@
 
 
                                                                                                                                                                                                                                                                                                                                                                                 
-                                                                                 
+                                                                                   
